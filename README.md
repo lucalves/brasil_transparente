@@ -1,10 +1,35 @@
 # brasil-transparente
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](LICENSE)
+
+## O que é?
+
+O Brasil Transparente é um projeto colaborativo de desenvolvimento de um app que tem como ideia principal facilitar o acesso do cidadão brasileiro por informações de como e para onde está sendo destinado os impostos, licitações, despesas, orçamentos, informações sobre servidores e investimentos que estão sendo realizados pelo governo com o dinheiro público.
+
+## Instalação
+
+- Instale e realize a configuração do [Flutter](https://flutter.dev/docs/get-started/install) em seu computador
+
+- Abra a pasta deste projeto em um Prompt de Comando e execute: `flutter packages get`
+
+- Execute `flutter run` para construir e executar o aplicativo em seu aparelho/emulador
+
+## Tecnologias
+
+No projeto Brasil Transparente, utilizamos as tecnologias/ferramentas abaixo:
+
+- [x] [Dart](https://dart.dev/)
+- [x] [Flutter](https://flutter.dev/)
+- [x] [Travis CI](https://travis-ci.org/) 
+- [x] [GraphQL](https://graphql.org/)
+- [x] [Postman](https://www.postman.com/)
+
+## Como contribuir?
+
+Toda contribuição será bem vinda, consulte o arquivo [CONTRIBUTING](CONTRIBUTING.md) ou nos envie sua [sugestão](https://github.com/lucalves/brasil-transparente/issues).
+
+## Contribuidores
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -19,4 +44,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+## Licença
+
+Consulte o arquivo [LICENSE](LICENSE) para detalhes.
