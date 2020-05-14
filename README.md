@@ -11,7 +11,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://lucalves.com.br"><img src="https://avatars0.githubusercontent.com/u/17712401?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Alves</b></sub></a><br /><a href="https://github.com/lucalves/brasil-transparente/commits?author=lucalves" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://lucalves.com.br"><img src="https://avatars0.githubusercontent.com/u/17712401?v=4" width="100px;" alt=""/><br /><sub><b>Lucas Alves</b></sub></a><br /><a href="https://github.com/lucalves/brasil-transparente/commits?author=lucalves" title="Documentation">📖</a> <a href="https://github.com/lucalves/brasil-transparente/commits?author=lucalves" title="Code">💻</a></td>
   </tr>
 </table>
 
