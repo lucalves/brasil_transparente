@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "lucalves",
+      "name": "Lucas Alves",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/17712401?v=4",
+      "profile": "http://lucalves.com.br",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "brasil-transparente",
+  "projectOwner": "lucalves",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
