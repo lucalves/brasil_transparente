@@ -1,10 +1,17 @@
 # Contribuindo
 
-### Licença
+## Branches
 
-Ao abrir um pull request nesse repositório, você concorda em fornecer seu trabalho sob a [licença do projeto](LICENSE).
+Temos duas branches principais: ```master``` e ```develop```. O desenvolvedor que entrar no projeto irá fazer o clone a partir da branch develop. Com os seguintes padrões em sua nomenclatura:
 
-### A fazer
+- Hotfix (correção de bugs): ```hotfix/nome-da-hotfix```
+- Feature (nova funcionalidade): ```feature/nome-da-feature```
+
+Concluiu a feature/hotfix? Realize o pull request apontando para a branch ```develop```. 
+
+Pronto! Só aguardar a avaliação para o merge na ```master```.
+
+## A fazer
 
 > Se você não estiver familiarizado com o GitHub, este [workflow](https://guides.github.com/introduction/flow/) pode ser útil.
 
@@ -16,7 +23,7 @@ O detalhamento com as tarefas realizadas/pendentes estão abaixo:
 - [ ] Layout do aplicativo no figma
 - [ ] Desenvolvimento do Layout dedicado a iOS
 
-### Como testamos sua contribuição
+## Como testamos sua contribuição
 
 Quando o seu Pull Request for enviado, alguns testes serão feitos automaticamente no projeto (Travis-CI), a fim de garantir que todas as mudanças estão corretas.
 
