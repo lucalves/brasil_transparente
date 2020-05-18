@@ -22,15 +22,15 @@ Aqui serão apresentado as melhores práticas para auxiliar e padronizar o desen
 
 <img src="https://i.imgur.com/Og1hmsb.png" width="25%" />
 
-assets: Pasta para armazenar as imagens utilizadas no projeto.
+*assets*: Pasta para armazenar as imagens utilizadas no projeto.
 
-models: Armazenará os *models* de cada entidade que o projeto venha necessitar.
+*models*: Armazenará os *models* de cada entidade que o projeto venha necessitar.
 
-screens: Nesta pasta contém as telas que serão utilizadas no layout.
+*screens*: Nesta pasta contém as telas que serão utilizadas no layout.
 
-services: Esta pasta é para operações back-end, como realizar chamar chamadas HTTP, etc.
+*services*: Esta pasta é para operações back-end, como realizar chamar chamadas HTTP, etc.
 
-utils: Todos os itens comuns estão aqui, como por exemplo: constantes e widgets genéricos utilizados no projeto.
+*utils*: Todos os itens comuns estão aqui, como por exemplo: constantes e widgets genéricos utilizados no projeto.
 
 ## Tecnologias Usadas
 
