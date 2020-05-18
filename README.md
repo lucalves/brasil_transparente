@@ -1,6 +1,5 @@
 # brasil-transparente
 
-
 [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](LICENSE)
 
 ## O que é?
@@ -15,9 +14,27 @@ O Brasil Transparente é um projeto colaborativo de desenvolvimento de um app qu
 
 - Execute `flutter run` para construir e executar o aplicativo em seu aparelho/emulador
 
-## Tecnologias
+## Padrão de Desenvolvimento
 
-No projeto Brasil Transparente, utilizamos as tecnologias/ferramentas abaixo:
+> O projeto (estrutura de pastas, constantes, classes, variáveis e afins) estão em **inglês**. Isso tornará o desenvolvedor iniciante/intermediário mais apto a trabalhar praticar e se preparar para projetos maiores. 
+
+Aqui serão apresentado as melhores práticas para auxiliar e padronizar o desenvolvimento do projeto. Será útil para novos desenvolvedores seguirem o padrão, afim de manter um código limpo e conciso.  O padrão está baseado [neste](https://medium.com/@parthibansudhaman/flutter-scalable-app-folder-structure-6f2b0bc139c4) artigo, porém adequando ao nosso projeto. O projeto segue os seguintes padrões de arquitetura:
+
+<img src="https://i.imgur.com/Og1hmsb.png" width="25%" />
+
+assets: Pasta para armazenar as imagens utilizadas no projeto.
+
+models: Armazenará os *models* de cada entidade que o projeto venha necessitar.
+
+screens: Nesta pasta contém as telas que serão utilizadas no layout.
+
+services: Esta pasta é para operações back-end, como realizar chamar chamadas HTTP, etc.
+
+utils: Todos os itens comuns estão aqui, como por exemplo: constantes e widgets genéricos utilizados no projeto.
+
+## Tecnologias Usadas
+
+Utilizamos as tecnologias/ferramentas abaixo:
 
 - [x] [Dart](https://dart.dev/)
 - [x] [Flutter](https://flutter.dev/)
