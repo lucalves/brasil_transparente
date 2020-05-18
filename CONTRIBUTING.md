@@ -14,6 +14,7 @@ O detalhamento com as tarefas realizadas/pendentes estão abaixo:
 - [x] Incluir e parametrizar o bot do [All Contributors](https://allcontributors.org/)
 - [ ] Incluir e parametrizar testes [Travis CI](https://travis-ci.org/) 
 - [ ] Layout do aplicativo no figma
+- [ ] Desenvolvimento do Layout dedicado a iOS
 
 ### Como testamos sua contribuição
 
