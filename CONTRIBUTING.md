@@ -1,5 +1,7 @@
 # Contribuindo
 
+Os dados são recuperados diretamente da base da Câmara, clicando [aqui](https://dadosabertos.camara.leg.br/swagger/api.html).
+
 ## Branches
 
 Temos duas branches principais: ```master``` e ```develop```. O desenvolvedor que entrar no projeto irá fazer o clone a partir da branch develop. Com os seguintes padrões em sua nomenclatura:
