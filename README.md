@@ -1,18 +1,10 @@
-# brasil-transparente
+# Brasil Transparente
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-red.svg)](LICENSE)
 
 ## O que é?
 
-O Brasil Transparente é um projeto colaborativo de desenvolvimento de um app que tem como ideia principal facilitar o acesso do cidadão brasileiro por informações de como e para onde está sendo destinado os impostos, licitações, despesas, orçamentos, informações sobre servidores e investimentos que estão sendo realizados pelo governo com o dinheiro público.
-
-## Instalação
-
-- Instale e realize a configuração do [Flutter](https://flutter.dev/docs/get-started/install) em seu computador
-
-- Abra a pasta deste projeto em um Prompt de Comando e execute: `flutter packages get`
-
-- Execute `flutter run` para construir e executar o aplicativo em seu aparelho/emulador
+É um projeto colaborativo de desenvolvimento de um app que tem como ideia principal facilitar o acesso do cidadão brasileiro por informações de como e para onde está sendo destinado os impostos, licitações, despesas, orçamentos, informações sobre servidores e investimentos que estão sendo realizados pelo governo com o dinheiro público.
 
 ## Padrão de Desenvolvimento
 
@@ -32,7 +24,7 @@ Aqui serão apresentado as melhores práticas para auxiliar e padronizar o desen
 
 *utils*: Todos os itens comuns estão aqui, como por exemplo: constantes e widgets genéricos utilizados no projeto.
 
-## Tecnologias Usadas
+## Ferramentas e Recursos
 
 Utilizamos as tecnologias/ferramentas abaixo:
 
