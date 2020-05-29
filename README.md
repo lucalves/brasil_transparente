@@ -16,6 +16,8 @@ Aqui serão apresentado as melhores práticas para auxiliar e padronizar o desen
 
 *assets*: Pasta para armazenar as imagens utilizadas no projeto.
 
+*providers*: Pasta para incluir os providers para gerenciamento de estado.
+
 *models*: Armazenará os *models* de cada entidade que o projeto venha necessitar.
 
 *screens*: Nesta pasta contém as telas que serão utilizadas no layout.
