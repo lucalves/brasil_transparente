@@ -1,32 +1,12 @@
 import 'package:flutter/material.dart';
-
-import 'screens/menu/drawer_menu.dart';
+import 'screens/introduction/splash_screen.dart';
 
 void main() {
-  runApp(Home());
+  runApp(MaterialApp(
+    debugShowCheckedModeBanner: false,
+    home: MyApp(),
+    )
+  );
 }
 
-class Home extends StatefulWidget {
-  @override
-  _HomeState createState() => _HomeState();
-}
-
-class _HomeState extends State<Home> {
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text('Brasil Transparente'),
-          actions: <Widget>[
-
-          ],
-        ),
-        drawer: Drawer(
-          child: DrawerMenu(),
-        ),
-      ),
-    );
-  }
-}
 
