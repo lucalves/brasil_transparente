@@ -23,4 +23,6 @@ flutter:
   uses-material-design: true
 
   assets:
-    - logo.png
+  - assets/Brasil Transparente.png
+  - assets/Logotipo do Projeto.png
+  - assets/Logo.png
