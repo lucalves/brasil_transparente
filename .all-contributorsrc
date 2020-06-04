@@ -14,10 +14,19 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "Arthurmarquesm",
+      "name": "Arthurmarquesm",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/30714507?v=4",
+      "profile": "https://github.com/Arthurmarquesm",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "brasil-transparente",
+  "projectName": "brasil_transparente",
   "projectOwner": "lucalves",
   "repoType": "github",
   "repoHost": "https://github.com",
